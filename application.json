@@ -1,0 +1,33 @@
+[
+  {
+    "id" : 1,
+    "name": "John",
+    "age": 22,
+    "occupation": "FisherMan"
+  },
+   {
+     "id" : 2,
+    "name": "Bob",
+    "age": 21,
+    "occupation": "Driver"
+  },
+   {
+     "id" : 3,
+    "name": "Jack",
+    "age": 22,
+    "occupation": "FisherMan"
+  },
+   {
+     "id" : 4,
+    "name": "Patrick",
+    "age": 27,
+    "occupation": "FisherMan"
+  },
+   {
+     "id" : 5,
+    "name": "MIke",
+    "age": 52,
+    "occupation": "Manager"
+  }
+
+]

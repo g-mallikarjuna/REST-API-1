@@ -1,0 +1,56 @@
+h1{
+    background-color: orange;
+}
+
+#submitBtn{
+    padding: 10px 20px;
+    margin: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
+img, video{
+    width: 200px;
+    cursor: pointer;
+}
+
+.form-container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container > div{
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    padding: 100px;
+}
+div > input{
+    width: 200px;
+    padding: 10px 10px;
+}
+div > button{
+    width: 200px;
+    background-color: red;
+}
+.show-details{
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+}
+.show-details > h5{
+    border: 1px solid;
+    padding: 10px 20px;
+    text-align: center;
+}
+.container{
+    border: 1px solid transparent;
+    display: flex;
+    flex-direction: column;
+}
+.edit-btns, .delete-btns{
+    width: 100px;
+}
